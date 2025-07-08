@@ -6,7 +6,7 @@ A simple and interactive Bubble Shooter game built with HTML, CSS, and JavaScrip
 - Click the correct bubble matching the "Hit" number to score points.
 - Timer counts down from 60 seconds.
 - Score increases by 10 for each correct hit.
-- Score decreases by 10 for each miss (down to -90).
+- Score decreases by 10 for each miss (down to -100).
 - Toast notification appears for missed hits.
 - When the timer reaches 10 seconds, the timer turns red.
 - Game Over screen displays your final score and allows you to play again.
